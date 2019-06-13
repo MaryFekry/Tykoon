@@ -1,0 +1,19 @@
+#form1 {
+    padding: 30px;
+   border:  1px solid darkgray;
+    margin-top: 30px;
+}
+form{
+    padding: 30px;
+}
+body{
+    background-color: azure;
+}
+#divcol{
+    background-color: beige;
+    border: 1px solid darkgray;
+    
+}
+.row{
+    margin: 10px;
+}
